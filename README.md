@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guglielmo Cerri</h1>
 <h3 align="center">A passionate and curious data scientist and bioinformatician from Italy 🇮🇹</h3>
 
-[//]: # "Generates a snake game from my github contributions graph"
 <p align="center">
 <img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake.svg" alt="github_snake_contribution" width="1000" height="220" align='center'/>
 <em>Snake game from my github contributions graph</em>
