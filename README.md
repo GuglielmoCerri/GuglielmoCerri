@@ -3,7 +3,7 @@
 
 [//]: # "Generates a snake game from my github contributions graph"
 <p align="center">
-<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake.svg" alt="github_snake_contribution]" width="1000" height="220" align='center'/>
+<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake.svg" alt="github_snake_contribution" width="1000" height="220" align='center'/>
 </p>
 
 </br>
