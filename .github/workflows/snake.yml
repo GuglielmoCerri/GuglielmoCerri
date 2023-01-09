@@ -1,0 +1,27 @@
+name: GitHub-Profile-3D-Contrib-and-snake
+
+on:
+  schedule: 
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate-github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the asset branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: asset
+          build_dir: 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
