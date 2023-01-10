@@ -1,19 +1,28 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guglielmo Cerri</h1>
 <h3 align="center">A passionate and curious data scientist and bioinformatician from Italy 🇮🇹</h3>
 
-<p align="center">
-<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake-dark.svg" alt="github_snake_contribution" width="1000" height="220" align='center'/>
-<em>Snake game from my github contributions graph</em>
-</p>
-
-</br>
-</br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /></a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=guglielmocerri&label=Profile%20views&color=0e75b6&style=flat" alt="guglielmocerri" />
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=guglielmocerri&label=Profile%20views&color=0e75b6&style=flat" alt="guglielmocerri" />
 <img src="https://img.shields.io/github/followers/guglielmocerri?label=Followers&style=social">
 </p>
+
+<p align="center">
+<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake-dark.svg" alt="github_snake_contribution" width="1000" height="220" align='center'/>
+<em>Snake game from my Github contributions graph</em>
+</p>
+
+</br>
+</br>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /> </a>
+</br>
+<em> My Github profile trophy </em>
+</p>
+ 
+</br> 
+ 
+
 
 - 🔭 I’m currently working on **Data Science and Bioinformatics**.
 - 🌱 I’m currently learning **PyTorch**.
