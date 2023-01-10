@@ -93,8 +93,8 @@
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="430" height="150" align='center'/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="430" height="220" align='center'/>
+<img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="150" align='center'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="450" height="220" align='center'/>
 </p>
   
 <br />
