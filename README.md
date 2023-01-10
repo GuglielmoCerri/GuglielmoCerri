@@ -98,6 +98,6 @@
 </p>
   
 <br />
-<h2 align="left">✊ &nbsp;Support</h2>
+<h2 align="left">✊ &nbsp;Support me</h2>
 <p align="center"> <a href="https://www.buymeacoffee.com/cerriguglielmo"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffe" /></a>
 </p>
