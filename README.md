@@ -93,10 +93,14 @@
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="150" align='center'/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="450" height="220" align='center'/>
+ <table>
+   <tr>
+     <th><img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="155" align='center'/></th>
+     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="450" height="250" align='center'/></th>
+   </tr>
+ </table>
 </p>
-  
+    
 <br />
 <h2 align="left">✊ &nbsp;Support me</h2>
 <p align="center"> <a href="https://www.buymeacoffee.com/cerriguglielmo"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffe" /></a>
