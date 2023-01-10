@@ -93,10 +93,10 @@
 </p>
  
 <p align="center">
- <table class="images" width="100%" style="border:0px solid white; width:100%;">
-   <tr style="border: 0px;">
-     <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="155" align='center'/></th>
-     <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="440" height="250" align='center'/></th>
+ <table>
+   <tr>
+     <th><img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="155" align='center'/></th>
+     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="445" height="250" align='center'/></th>
    </tr>
  </table>
 </p>
