@@ -88,7 +88,7 @@
 
 <p align="center">
 <kbd>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gitHub_contribution_3D" width="900" height="600" /> 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gitHub_contribution_3D" width="865" height="570" /> 
 </kbd>
 </p>
  
