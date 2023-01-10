@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake-dark.svg" alt="github_snake_contribution" width="1000" height="220" align='center'/>
+<img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake-dark.svg" alt="github_snake_contribution" width="1000" height="210" align='center'/>
 <em>Snake game from my Github contributions graph</em>
 </p>
 
@@ -86,11 +86,11 @@
 
 <h2>📈 &nbsp;Some stats </h2>
 
-![gitHub_contribution_3D](./profile-3d-contrib/profile-night-rainbow.svg)  
-
-<!--
-![github graph](https://activity-graph.herokuapp.com/graph?username=guglielmocerri&theme=react-dark&hide_border=true&area=true) 
- -->
+<p align="center">
+<kbd>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gitHub_contribution_3D" width="900" height="600" /> 
+</kbd>
+</p>
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="500" height="200" align='center'/>
