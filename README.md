@@ -19,7 +19,7 @@
 
 <p align="center">
 <picture>
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=guglielmocerri" alt="guglielmocerri-profile-trophy">
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=guglielmocerri" alt="guglielmocerri-profile-trophy">
 <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /> </a>
 </picture>
 </br>
