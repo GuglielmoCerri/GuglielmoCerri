@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake.svg" width="1000" height="200" align='center'>
 <img src="https://github.com/GuglielmoCerri/GuglielmoCerri/blob/asset/github-contribution-grid-snake-dark.svg" alt="github_snake_contribution" width="1000" height="200" align='center'/>
 <em>Snake game from my Github contributions graph</em>
+</picture>
 </p>
 
 </br>
