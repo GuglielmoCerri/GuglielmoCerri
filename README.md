@@ -70,7 +70,7 @@
 
 <code> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </code>
 <code> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </code> 
-<code> <picture> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" > <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40"/> </picture> </a> </code> 
+<code> <picture> <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" > <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40"/> </picture> </code> 
 <code> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </code>
 <code> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </code>
 <code> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </code> 
