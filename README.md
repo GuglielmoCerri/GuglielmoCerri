@@ -60,7 +60,7 @@
 
 <code> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </code>
 <code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </code>
-<code> <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="bash" width="40" height="40"/> </code>
+<code> <picture> <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" > <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="bash" width="40" height="40"/> </picture> </code>
 <code> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://clouddayscom.files.wordpress.com/2020/06/docker-logo.png" alt="docker" width="42" height="42"/> </a> </code> 
 <code> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </code>
 <code> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> </code>
