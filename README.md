@@ -18,7 +18,10 @@
 </br>
 
 <p align="center">
+<picture>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=guglielmocerri" alt="guglielmocerri-profile-trophy">
 <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /> </a>
+</picture>
 </br>
 <em> My Github profile trophy </em>
 </p>
@@ -91,7 +94,10 @@
 
 <p align="center">
 <kbd>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gitHub_contribution_3D" /> 
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" alt="gitHub_contribution_3D">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gitHub_contribution_3D" />
+</picture>
 </kbd>
 </p>
 
