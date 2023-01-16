@@ -20,7 +20,7 @@
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=guglielmocerri" alt="guglielmocerri-profile-trophy">
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /> </a>
+<img src="https://github-profile-trophy.vercel.app/?username=guglielmocerri&theme=nord" alt="guglielmocerri-profile-trophy" /> 
 </picture>
 </br>
 <em> My Github profile trophy </em>
