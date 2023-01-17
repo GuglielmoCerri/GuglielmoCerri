@@ -104,8 +104,8 @@
 <p align="center">
  <table>
    <tr>
-     <td style="border: none"><img src="https://github-readme-stats.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="155" align='center'/></td>
-     <td style="border: none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="455" height="250" align='center'/></td>
+     <td style="border: none"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats" width="450" height="155" align='center'/></td>
+     <td style="border: none"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guglielmocerri&bg_color=00000000&show_icons=true&layout=compact" alt="github_stats_top_languages" width="455" height="250" align='center'/></td>
    </tr>
  </table>
 </p>
