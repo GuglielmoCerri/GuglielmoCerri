@@ -4,6 +4,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=guglielmocerri&label=Profile%20views&color=0e75b6&style=flat" alt="guglielmocerri" />
 <img src="https://img.shields.io/github/followers/guglielmocerri?label=Followers&style=social">
+<a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Github%20Profile%20Readme%20🚀&url=https://github.com/GuglielmoCerri/GuglielmoCerri&hashtags=Readme,profile-readme,Github,Github-actions"> <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"> </a>
 </p>
 
 <p align="center">
