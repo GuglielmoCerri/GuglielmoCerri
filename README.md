@@ -28,7 +28,16 @@
 </p>
  
 </br> 
- 
+
+<p align="center">
+<picture>
+<a href="https://stackoverflow.com/users/12829151/will">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=dark" alt="Guglielmo Cerri StackOverflow" />
+</a>
+</picture>
+</br>
+<em>My Stack Overflow status</em>
+</p>
 
 
 - 🔭 I’m currently working on **Data Science and Bioinformatics**.
@@ -110,7 +119,7 @@
    </tr>
  </table>
 </p>
-    
+
 <br />
 <h2 align="left">✊ &nbsp;Support me</h2>
 <p align="center"> <a href="https://www.buymeacoffee.com/cerriguglielmo"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffe" /></a>
