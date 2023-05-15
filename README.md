@@ -44,7 +44,7 @@
 - 🌱 I’m currently learning **PyTorch**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
 - 💬 Ask me about Anything! I am happy to help.
-- ⚡  Fun fact: what's the last one?: The Z.
+- ⚡  Quote of the day: "Do. Or do not. There is no try.".
 - 📫 How to reach me **cerriguglielmo@gmail.com**.
 <br />
 
