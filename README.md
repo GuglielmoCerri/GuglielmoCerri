@@ -43,6 +43,7 @@
 - 🔭 I’m currently working on **Data Science and Bioinformatics**.
 - 🌱 I’m currently learning **PyTorch**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
+- ✍️  I'm a writer on Medium focused on AI, machine learning, and programming.
 - 💬 Ask me about Anything! I am happy to help.
 - ⚡  Quote of the day: "Do. Or do not. There is no try".
 - 📫 How to reach me **cerriguglielmo@gmail.com**.
