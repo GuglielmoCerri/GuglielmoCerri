@@ -58,6 +58,23 @@
 </p>
 &nbsp;
 
+## ✍️ I'm a writer on Medium focused on AI, machine learning, and programming
+
+I write regularly on Medium about various topics in data science, AI, and programming. Here are some of the key articles I've written:
+
+- [Secrets to a Killer Data Science Portfolio: Projects that Will Skyrocket Your Career](https://levelup.gitconnected.com/secrets-to-a-killer-data-science-portfolio-projects-that-will-skyrocket-your-career-67089b924929)
+- [Why Ignoring Kaggle Could Hamper Your Data Science Career](https://ai.plainenglish.io/why-ignoring-kaggle-could-hamper-your-data-science-career-42b7c5fed543)
+- [Building a Deep Learning Model with TensorFlow and Keras: Easier Than You Think](https://levelup.gitconnected.com/building-a-deep-learning-model-with-tensorflow-and-keras-easier-than-you-think-62d0cb7945ff)
+- [Creating a Chatbot with Python](https://medium.com/mlearning-ai/creating-a-chatbot-with-python-5598e9a5f993)
+- [Design Patterns in Python: A Practical Guide to Writing Maintainable Code](https://levelup.gitconnected.com/design-patterns-in-python-a-practical-guide-to-writing-maintainable-code-a3f780a4a6ad)
+- [Building Web Applications with Python: A Step-by-Step Guide](https://python.plainenglish.io/building-web-applications-with-python-a-step-by-step-guide-7cb0e232b4f2)
+- [Artificial Intelligence and Art: When Creativity meets Algorithms](https://artificialcorner.com/artificial-intelligence-and-art-when-creativity-meets-algorithms-dd574f6884f4)
+- [Automating Daily Tasks with Python: a Comprehensive Guide](https://python.plainenglish.io/automating-daily-tasks-with-python-a-comprehensive-guide-cbeaa53b50a4)
+- [Mastering Machine Learning Fundamentals using Python](https://levelup.gitconnected.com/mastering-machine-learning-fundamentals-using-python-957936f771a7)
+- [Unlocking the Power of Clean Code: 8 Essential Principles for Programmers](https://levelup.gitconnected.com/unlocking-the-power-of-clean-code-8-essential-principles-for-programmers-5c79b1e9c815)
+
+&nbsp;
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
 
 <code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a> </code>
@@ -110,6 +127,7 @@ I'm actively contributing to various projects with a focus on Data Science and B
 
 2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsnv.py` script. This new parameter allows users to directly pass a VCF file path to the script, enhancing its versatility and utility. This improvement simplifies the workflow, making the script more flexible and easier to use.
 
+&nbsp;
 
 <h2>📈 &nbsp;Some stats </h2>
 
