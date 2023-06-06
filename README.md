@@ -102,6 +102,15 @@
 
 <br />
 
+## 🌟 My Contributions
+
+I'm actively contributing to various projects with a focus on Data Science and Bioinformatics. Here are the main repositories I've contributed to:
+
+1. **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
+
+2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsnv.py` script. This new parameter allows users to directly pass a VCF file path to the script, enhancing its versatility and utility. This improvement simplifies the workflow, making the script more flexible and easier to use.
+
+
 <h2>📈 &nbsp;Some stats </h2>
 
 <p align="center">
