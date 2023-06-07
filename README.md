@@ -72,6 +72,7 @@ I write regularly on Medium about various topics in data science, AI, and progra
 - [Automating Daily Tasks with Python: a Comprehensive Guide](https://python.plainenglish.io/automating-daily-tasks-with-python-a-comprehensive-guide-cbeaa53b50a4)
 - [Mastering Machine Learning Fundamentals using Python](https://levelup.gitconnected.com/mastering-machine-learning-fundamentals-using-python-957936f771a7)
 - [Unlocking the Power of Clean Code: 8 Essential Principles for Programmers](https://levelup.gitconnected.com/unlocking-the-power-of-clean-code-8-essential-principles-for-programmers-5c79b1e9c815)
+- [The Impact of Quantum Computing on Traditional Coding Practices](https://medium.com/gitconnected/the-impact-of-quantum-computing-on-traditional-coding-practices-39d95d92510e)
 
 &nbsp;
 
@@ -125,7 +126,7 @@ I'm actively contributing to various projects with a focus on Data Science and B
 
 1. **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
 
-2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsnv.py` script. This new parameter allows users to directly pass a VCF file path to the script, enhancing its versatility and utility. This improvement simplifies the workflow, making the script more flexible and easier to use.
+2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the script, enhancing its versatility and utility. This improvement simplifies the workflow, making the script more flexible and easier to use.
 
 &nbsp;
 
