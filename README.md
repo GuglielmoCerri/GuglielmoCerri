@@ -30,11 +30,12 @@
 </br> 
 
 <p align="center">
-<picture>
 <a href="https://stackoverflow.com/users/12829151/will">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=light" alt="Guglielmo Cerri StackOverflow">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=dark" alt="Guglielmo Cerri StackOverflow" />
-</a>
 </picture>
+</a>
 </br>
 <em>My Stack Overflow status</em>
 </p>
