@@ -127,7 +127,7 @@ I'm actively contributing to various projects with a focus on Data Science and B
 
 1. **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
 
-2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the script, enhancing its versatility and utility. This improvement simplifies the workflow, making the script more flexible and easier to use.
+2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the scripts, enhancing its versatility and utility. I also fixed a `ZeroDivisionError` in `asmregion.py`. This fix, which prevents a crash when the number of reads is zero . This improvement simplifies the workflow, making the script more flexible and easier to use.
 
 &nbsp;
 
