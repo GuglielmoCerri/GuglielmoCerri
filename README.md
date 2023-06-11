@@ -129,6 +129,9 @@ I'm actively contributing to various projects with a focus on Data Science and B
 
 2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the scripts, enhancing its versatility and utility. I also fixed a `ZeroDivisionError` in `asmregion.py`. This fix, which prevents a crash when the number of reads is zero . This improvement simplifies the workflow, making the script more flexible and easier to use.
 
+3. **[Advent of Code solutions](https://github.com/GuglielmoCerri/Advent-of-Code)**: My solutions to the Advent of Code challenges have been added to the [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) repository.
+
+
 &nbsp;
 
 <h2>📈 &nbsp;Some stats </h2>
