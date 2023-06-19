@@ -74,6 +74,7 @@ I write regularly on Medium about various topics in data science, AI, and progra
 - [Mastering Machine Learning Fundamentals using Python](https://levelup.gitconnected.com/mastering-machine-learning-fundamentals-using-python-957936f771a7)
 - [Unlocking the Power of Clean Code: 8 Essential Principles for Programmers](https://levelup.gitconnected.com/unlocking-the-power-of-clean-code-8-essential-principles-for-programmers-5c79b1e9c815)
 - [The Impact of Quantum Computing on Traditional Coding Practices](https://medium.com/gitconnected/the-impact-of-quantum-computing-on-traditional-coding-practices-39d95d92510e)
+- [A Developer’s Guide to Working with APIs](https://medium.com/gitconnected/a-developers-guide-to-working-with-apis-d5c8aa4e0284)
 
 &nbsp;
 
