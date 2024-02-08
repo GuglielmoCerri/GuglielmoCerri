@@ -30,15 +30,20 @@
 </br> 
 
 <p align="center">
-<a href="https://stackoverflow.com/users/12829151/will">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=light" alt="Guglielmo Cerri StackOverflow">
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=dark" alt="Guglielmo Cerri StackOverflow" />
-</picture>
-</a>
-</br>
-<em>My Stack Overflow status</em>
+  <a href="https://stackoverflow.com/users/12829151/will">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=light" alt="Guglielmo Cerri StackOverflow">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=12829151&layout=compact&theme=dark" alt="Guglielmo Cerri StackOverflow" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://leetcode.com/GuglielmoCerri/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGuglielmoCerri&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
+  </a>
+  </br>
+  <em>My Stack Overflow status and LeetCode progress</em>
 </p>
+
 
 
 - 🔭 I’m currently working on **Data Science and Bioinformatics**.
