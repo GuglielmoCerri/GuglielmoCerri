@@ -46,8 +46,8 @@
 
 
 
-- 🔭 I’m currently working on **Data Science and Bioinformatics**.
-- 🌱 I’m currently learning **Rust**.
+- 🔭 I’m currently working on **Data Science**.
+- 🌱 I’m currently learning **Azure AI**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
 - ✍️  I'm a writer on Medium focused on AI, machine learning, and programming.
 - 💬 Ask me about Anything! I am happy to help.
