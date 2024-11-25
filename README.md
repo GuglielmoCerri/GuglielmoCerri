@@ -45,7 +45,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Data Science**.
+- 🔭 I’m currently working on **GenAI on Cloud**.
 - 🌱 I’m currently learning **Azure AI**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
 - ✍️  I'm a writer on Medium focused on AI, machine learning, and programming.
