@@ -45,7 +45,6 @@
 </p>
 
 
-
 - 🔭 I’m currently working on **Data Science**.
 - 🌱 I’m currently learning **Azure AI**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
@@ -62,6 +61,22 @@
 <a href="https://medium.com/@cerriguglielmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cerriguglielmo" height="30" width="40" /></a>
 <a href="https://twitter.com/GuglielmoCerri" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="GuglielmoCerri" height="30" width="40" /></a>
 </p>
+&nbsp;
+
+## 🌟 My Contributions
+
+I'm actively contributing to various projects with a focus on Data Science, AI, and cloud-based solutions. Here are the main repositories I've contributed to:
+
+*. **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
+
+*. **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)**: Proposed a feature in a Pull Request to extend the `.info()` method, allowing it to return a dictionary for programmatic analysis. While the PR was not merged, the discussion and code presented valuable insights into pandas' design choices and priorities.
+
+*. **[googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform)**: Opened an issue highlighting the inability to configure the `Dynamic Threshold` for Google's Search grounding in Gemini's Vertex AI. This brought attention to a critical limitation, leading to discussions and the successful implementation of the feature, which resolved the issue.
+
+*. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the scripts, enhancing its versatility and utility. I also fixed a `ZeroDivisionError` in `asmregion.py`. This fix, which prevents a crash when the number of reads is zero . This improvement simplifies the workflow, making the script more flexible and easier to use.
+
+*. **[Advent of Code solutions](https://github.com/GuglielmoCerri/Advent-of-Code)**: My solutions to the Advent of Code challenges have been added to the [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) repository.
+
 &nbsp;
 
 ## ✍️ I'm a writer on Medium focused on AI, machine learning, and programming
@@ -129,19 +144,6 @@ I write regularly on Medium about various topics in data science, AI, and progra
 <code> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </code>
 <code> <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a> </code>
 <code> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </code>
-
-<br />
-
-## 🌟 My Contributions
-
-I'm actively contributing to various projects with a focus on Data Science and Bioinformatics. Here are the main repositories I've contributed to:
-
-1. **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
-
-2. **[adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon)**: I've introduced a new `vcf` parameter to the `addsv.py` and `addsnv.py` scripts. This new parameter allows users to directly pass a VCF file path to the scripts, enhancing its versatility and utility. I also fixed a `ZeroDivisionError` in `asmregion.py`. This fix, which prevents a crash when the number of reads is zero . This improvement simplifies the workflow, making the script more flexible and easier to use.
-
-3. **[Advent of Code solutions](https://github.com/GuglielmoCerri/Advent-of-Code)**: My solutions to the Advent of Code challenges have been added to the [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) repository.
-
 
 &nbsp;
 
