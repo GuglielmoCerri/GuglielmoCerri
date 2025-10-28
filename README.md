@@ -45,8 +45,6 @@
 </p>
 
 
-- 🔭 I’m currently working on **GenAI on Cloud**.
-- 🌱 I’m currently learning **Azure AI**.
 - 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
 - ✍️  I'm a writer on Medium focused on AI, machine learning, and programming.
 - 💬 Ask me about Anything! I am happy to help.
@@ -59,7 +57,6 @@
 <a href="https://linkedin.com/in/guglielmocerri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guglielmocerri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12829151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12829151" height="30" width="40" /></a>
 <a href="https://medium.com/@cerriguglielmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cerriguglielmo" height="30" width="40" /></a>
-<a href="https://twitter.com/GuglielmoCerri" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="GuglielmoCerri" height="30" width="40" /></a>
 </p>
 &nbsp;
 
