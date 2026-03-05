@@ -45,7 +45,7 @@
 </p>
 
 
-- 🤝 I'm looking to collaborate on **Artificial Intelligence** projects.
+- 🤝 I'm looking to collaborate on **Python**/**Artificial Intelligence** projects.
 - ✍️  I'm a writer on Medium focused on AI, machine learning, and programming.
 - 💬 Ask me about Anything! I am happy to help.
 - ⚡  Quote of the day: "Do. Or do not. There is no try".
@@ -63,6 +63,8 @@
 ## 🌟 My Contributions
 
 I'm actively contributing to various projects with a focus on Data Science, AI, and cloud-based solutions. Here are the main repositories I've contributed to:
+
+* **[google/adk-python](https://github.com/google/adk-python)**: Identified and reported a critical bug affecting Windows users where `adk deploy` failed due to `[WinError 5]` during the cleanup of read-only `.git` files. I provided a technical root-cause analysis and a proposed fix using a custom `shutil.rmtree` error handler. Additionally, I documented complex workarounds for multi-file agent deployments, which helped bridge gaps in the existing documentation and influenced an official PR to resolve the issue.
 
 * **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: I've added a `skip_xgboost` feature which allows skipping the recursive xgboost step. This was done in response to an open issue and the code was subsequently incorporated into the main repository.
 
