@@ -14,7 +14,7 @@
 
 ## Projects
 
-- 🛡️ **[Khazad](https://github.com/GuglielmoCerri/khazad)** — Transparent, transport-layer semantic cache for LLM API calls powered by Redis Vector Sets. Zero code changes, ~50% fewer API calls.
+- 🛡️ **[Khazad](https://github.com/GuglielmoCerri/khazad)** — Transparent, transport-layer semantic cache for LLM API calls powered by Redis Vector Sets. Zero code changes.
 - 🎬 **[TubeTrim](https://github.com/GuglielmoCerri/TubeTrim)** — Summarize YouTube videos using open-source LLMs. Trim the Mess. Keep the Best.
 - 🦕 **[PyTorch Dino AI](https://github.com/GuglielmoCerri/pytorch-dino-ai-game)** — AI model trained to play the Chrome Dino Game using PyTorch and EfficientNet.
 - 🖥️ **[Backoffice WebApp](https://github.com/GuglielmoCerri/Backoffice-WebApp)** — Full-stack backoffice web app with secure auth and CRUD operations. React + Flask + SQLite.
