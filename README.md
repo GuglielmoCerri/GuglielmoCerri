@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guglielmo</h1>
 
-📍 **Sicily, Italy** | 🤖 **AI Tech Lead** | 💻 **Open source enthusiast**
+📍 **Sicily, Italy** | 🤖 **Senior Data Scientist** | 💻 **Open source enthusiast**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -25,7 +25,7 @@
 
 ## Contributions
 
-- **[google/adk-python](https://github.com/google/adk-python)** - Fixed a critical Windows bug in `adk deploy` and documented workarounds, influencing an official PR.
+- **[google/adk-python](https://github.com/google/adk-python)** - Reported and documented a critical Windows bug in `adk deploy`, with workarounds, which led to an official fix PR.
 - **[AutoViML/featurewiz](https://github.com/AutoViML/featurewiz)**: Added `skip_xgboost` option which was merged into the main repo.
 - **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)**: Proposed `.info()` extension to return a dictionary inside a PR, sparking useful design discussions.
 - **[googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform)**: Reported `Dynamic Threshold` issue in Vertex AI, leading to feature implementation.
